@@ -26,9 +26,8 @@ export const ORTHOGRAPHY = [
   "n'",
   "t'",
   "g'",
-  "m'"'
-  
-]
+  "m'"'  
+        ]
 
 if (CONFIG.normalization) {
   ORTHOGRAPHY.forEach(
