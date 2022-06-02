@@ -12,7 +12,7 @@ export const VALIDGUESSES = [
   "paqt'sm",
   "qalipu",
   "te'pulj",
-  "ulaquan",
+  "ulaqan",
   "wissei",
   "jigmit",
   "napioq",
