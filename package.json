@@ -1,7 +1,7 @@
 {
-    "name": "any-language-wordle",
+    "name": "mi-gmaw-wordle",
     "version": "0.1.0",
-    "homepage": "https://roedoejet.github.io/AnyLanguage-Wordle",
+    "homepage": "https://tayareece.github.io/Mi-gmaw-Wordle",
     "private": true,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",
