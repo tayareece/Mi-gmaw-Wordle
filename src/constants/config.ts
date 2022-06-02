@@ -3,8 +3,8 @@ export const CONFIG = {
   language: "Mi'gmaq", // This changes the display name for your language
   wordLength: 6, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'taya reece', // Put your name here so people know who made this Wordle!
-  authorWebsite: '@taya.reece', // Put a link to your website or social media here
-  wordListSource: "Mi'kmaq Online Dictionary", // Describe the source material for your words here
+  authorWebsite: '', // Put a link to your website or social media here
+  wordListSource: "Mi'gmaq Online Dictionary - Listuguj Orthography", // Describe the source material for your words here
   wordListSourceLink: 'https://www.mikmaqonline.org/', // Put a link to the source material for your words here
   //
   // THESE NEXT SETTINGS ARE FOR ADVANCED USERS
