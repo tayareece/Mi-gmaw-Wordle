@@ -24,7 +24,6 @@ export const VALIDGUESSES = [
   "qospem",
   "tgupoq",
   "alawei",
-
 ]
 
 if (CONFIG.normalization) {
