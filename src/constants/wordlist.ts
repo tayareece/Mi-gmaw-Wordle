@@ -12,7 +12,7 @@ export const WORDS = [
   "paqt'sm",
   "qalipu",
   "te'pulj",
-  "ulaquan",
+  "ulaqan",
   "wissei",
   "jigmit",
   "napioq",
